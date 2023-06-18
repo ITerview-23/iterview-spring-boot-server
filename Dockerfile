@@ -1,4 +1,4 @@
-FROM java:17-alpine
+FROM openjdk:17-alpine
 
 # Set the working directory to /app
 WORKDIR /app
